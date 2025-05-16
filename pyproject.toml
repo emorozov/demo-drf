@@ -1,0 +1,14 @@
+[project]
+name = "demo-drf-webi3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "django==4.2.21",
+    "django-filter==21.1",
+    "django-rest-passwordreset==1.2.1",
+    "djangorestframework==3.14.0",
+    "djangorestframework-simplejwt==5.5.0",
+    "python-dotenv==0.20.0",
+]
